@@ -1,2 +1,2 @@
 # soal
-question generator (ID)
+question generator (Bahasa)
